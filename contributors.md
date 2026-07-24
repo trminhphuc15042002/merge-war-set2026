@@ -43,3 +43,5 @@
 3. THu sua lai cua 2
 
 commit 1 WIP
+
+commit 2 FIX a little
